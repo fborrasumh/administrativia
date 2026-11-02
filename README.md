@@ -4,6 +4,8 @@ Sistema de aprendizaje de **Derecho Administrativo I** (asignatura 1189, Grado e
 
 **Usar la app:** https://fborrasumh.github.io/administrativia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23891817.svg)](https://doi.org/10.5281/zenodo.23891817)
+
 **Idiomas:** español (por defecto), inglés y portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL). Las citas de la ley, el texto literal de la guía y los epígrafes se muestran siempre en su original castellano.
 
 ## Qué hace
